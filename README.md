@@ -132,7 +132,7 @@
 
   <section class="order">
     <h2>Order Now</h2>
-    <p>Place your order directly with us on WhatsApp</p>
+    <p>Place your order directly with us on WhatsApp +1-437-996-7968</p>
     <a href="https://wa.me/911234567890" target="_blank">Order on WhatsApp</a>
     <p style="margin-top:15px;">📍 City: Your City Name</p>
   </section>
